@@ -9,49 +9,20 @@ Some students take too long to decide what to order.
 The cashier has to manually calculate totals and give change.
 There is no system to track which food items are running out.
 Your group’s task is to decompose this problem into smaller, manageable parts that could be solved with computational thinking (CT) Skills.
+
 Step 1: Identify the Big Problem
-Main Problem: _____________________________________________________
-_________________________________________________________________
-_________________________________________________________________
+Main Problem: The main problem here is that the cashier has to take time to manually count money, while the students are taking too long, making the line even longer and more impatient and that there are no ledgers or trackers to show which food items are running out.
+
 Step 2: Identify three to four Sub-Problems
 Please list possible sub-problems:
-___________________________________________________________
-___________________________________________________________
-___________________________________________________________
-___________________________________________________________
-___________________________________________________________
-___________________________________________________________
-___________________________________________________________
-___________________________________________________________
+1. Students may be on their phones and not pay attention to the people around them, making the line take even longer.
+2. Since all the counting is done manually, some mistakes or differences may occur during the transaction when students buy their food.
+3. Students who are left when the bell rings and haven't gotten their food will be left hungry.
+
 Step 3: Define Computational Thinking Approaches
 For each sub-problem, apply CT skills:
 Sub-Problem
 CT Skill
 Example Solution
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem
